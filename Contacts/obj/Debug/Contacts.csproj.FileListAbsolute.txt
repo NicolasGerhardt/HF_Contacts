@@ -1,0 +1,11 @@
+C:\Users\User\Documents\git\HF_Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\User\Documents\git\HF_Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\User\Documents\git\HF_Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\User\Documents\git\HF_Contacts\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+C:\Users\User\Documents\git\HF_Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\User\Documents\git\HF_Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\User\Documents\git\HF_Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\User\Documents\git\HF_Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\User\Documents\git\HF_Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\User\Documents\git\HF_Contacts\Contacts\bin\Debug\ContactDB.mdf
+C:\Users\User\Documents\git\HF_Contacts\Contacts\bin\Debug\ContactDB_log.ldf
